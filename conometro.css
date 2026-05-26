@@ -25,6 +25,8 @@ h1{
     width: 600px;
     background-color: rgb(14, 47, 67);
     padding: 10px;
+    border-radius: 20px;
+    background: linear-gradient(45deg,rgb(7, 63, 69),rgb(4, 7, 59),rgb(60, 148, 255));
 
 
 }
